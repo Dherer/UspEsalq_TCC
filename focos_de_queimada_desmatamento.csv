@@ -1,0 +1,866 @@
+﻿date;class;focuses;uf
+2022/01;Desmatamento Consolidado;35;BAHIA
+2022/01;Desmatamento Consolidado;57;GOIÁS
+2022/01;Desmatamento Consolidado;67;MARANHÃO
+2022/01;Desmatamento Consolidado;168;MATO GROSSO
+2022/01;Desmatamento Consolidado;51;MATO GROSSO DO SUL
+2022/01;Desmatamento Consolidado;43;MINAS GERAIS
+2022/01;Desmatamento Consolidado;22;PIAUÍ
+2022/01;Desmatamento Consolidado;41;SÃO PAULO
+2022/01;Desmatamento Consolidado;36;TOCANTINS
+2022/01;Desmatamento Recente;37;BAHIA
+2022/01;Desmatamento Recente;7;GOIÁS
+2022/01;Desmatamento Recente;66;MARANHÃO
+2022/01;Desmatamento Recente;29;MATO GROSSO
+2022/01;Desmatamento Recente;6;MATO GROSSO DO SUL
+2022/01;Desmatamento Recente;4;MINAS GERAIS
+2022/01;Desmatamento Recente;22;PIAUÍ
+2022/01;Desmatamento Recente;1;RONDÔNIA
+2022/01;Desmatamento Recente;1;SÃO PAULO
+2022/01;Desmatamento Recente;13;TOCANTINS
+2022/01;Floresta;2;BAHIA
+2022/01;Floresta;6;MARANHÃO
+2022/01;Floresta;7;MATO GROSSO
+2022/01;Floresta;15;MATO GROSSO DO SUL
+2022/01;Floresta;7;MINAS GERAIS
+2022/01;Floresta;1;PARANÁ
+2022/01;Floresta;11;PIAUÍ
+2022/01;Floresta;8;TOCANTINS
+2022/02;Desmatamento Consolidado;44;BAHIA
+2022/02;Desmatamento Consolidado;86;GOIÁS
+2022/02;Desmatamento Consolidado;37;MARANHÃO
+2022/02;Desmatamento Consolidado;133;MATO GROSSO
+2022/02;Desmatamento Consolidado;94;MATO GROSSO DO SUL
+2022/02;Desmatamento Consolidado;38;MINAS GERAIS
+2022/02;Desmatamento Consolidado;12;PIAUÍ
+2022/02;Desmatamento Consolidado;55;SÃO PAULO
+2022/02;Desmatamento Consolidado;45;TOCANTINS
+2022/02;Desmatamento Recente;29;BAHIA
+2022/02;Desmatamento Recente;4;GOIÁS
+2022/02;Desmatamento Recente;40;MARANHÃO
+2022/02;Desmatamento Recente;7;MATO GROSSO
+2022/02;Desmatamento Recente;14;MATO GROSSO DO SUL
+2022/02;Desmatamento Recente;14;PIAUÍ
+2022/02;Desmatamento Recente;1;RONDÔNIA
+2022/02;Desmatamento Recente;7;TOCANTINS
+2022/02;Floresta;11;BAHIA
+2022/02;Floresta;2;GOIÁS
+2022/02;Floresta;2;MATO GROSSO
+2022/02;Floresta;3;MATO GROSSO DO SUL
+2022/02;Floresta;1;MINAS GERAIS
+2022/02;Floresta;1;PIAUÍ
+2022/02;Floresta;5;TOCANTINS
+2021/01;Desmatamento Consolidado;36;BAHIA
+2021/01;Desmatamento Consolidado;51;GOIÁS
+2021/01;Desmatamento Consolidado;77;MARANHÃO
+2021/01;Desmatamento Consolidado;121;MATO GROSSO
+2021/01;Desmatamento Consolidado;20;MATO GROSSO DO SUL
+2021/01;Desmatamento Consolidado;31;MINAS GERAIS
+2021/01;Desmatamento Consolidado;14;PIAUÍ
+2021/01;Desmatamento Consolidado;13;SÃO PAULO
+2021/01;Desmatamento Consolidado;25;TOCANTINS
+2021/01;Desmatamento Recente;48;BAHIA
+2021/01;Desmatamento Recente;10;GOIÁS
+2021/01;Desmatamento Recente;49;MARANHÃO
+2021/01;Desmatamento Recente;24;MATO GROSSO
+2021/01;Desmatamento Recente;4;MATO GROSSO DO SUL
+2021/01;Desmatamento Recente;7;MINAS GERAIS
+2021/01;Desmatamento Recente;13;PIAUÍ
+2021/01;Desmatamento Recente;38;TOCANTINS
+2021/01;Floresta;6;BAHIA
+2021/01;Floresta;1;GOIÁS
+2021/01;Floresta;7;MARANHÃO
+2021/01;Floresta;7;MATO GROSSO
+2021/01;Floresta;7;MINAS GERAIS
+2021/01;Floresta;5;PIAUÍ
+2021/01;Floresta;11;TOCANTINS
+2021/02;Desmatamento Consolidado;5;BAHIA
+2021/02;Desmatamento Consolidado;76;GOIÁS
+2021/02;Desmatamento Consolidado;47;MARANHÃO
+2021/02;Desmatamento Consolidado;182;MATO GROSSO
+2021/02;Desmatamento Consolidado;66;MATO GROSSO DO SUL
+2021/02;Desmatamento Consolidado;20;MINAS GERAIS
+2021/02;Desmatamento Consolidado;10;PIAUÍ
+2021/02;Desmatamento Consolidado;36;SÃO PAULO
+2021/02;Desmatamento Consolidado;39;TOCANTINS
+2021/02;Desmatamento Recente;8;BAHIA
+2021/02;Desmatamento Recente;8;GOIÁS
+2021/02;Desmatamento Recente;33;MARANHÃO
+2021/02;Desmatamento Recente;18;MATO GROSSO
+2021/02;Desmatamento Recente;26;MATO GROSSO DO SUL
+2021/02;Desmatamento Recente;2;MINAS GERAIS
+2021/02;Desmatamento Recente;6;PIAUÍ
+2021/02;Desmatamento Recente;8;TOCANTINS
+2021/02;Floresta;2;MARANHÃO
+2021/02;Floresta;4;MATO GROSSO
+2021/02;Floresta;2;MATO GROSSO DO SUL
+2021/02;Floresta;9;TOCANTINS
+2021/03;Desmatamento Consolidado;37;BAHIA
+2021/03;Desmatamento Consolidado;70;GOIÁS
+2021/03;Desmatamento Consolidado;28;MARANHÃO
+2021/03;Desmatamento Consolidado;122;MATO GROSSO
+2021/03;Desmatamento Consolidado;51;MATO GROSSO DO SUL
+2021/03;Desmatamento Consolidado;84;MINAS GERAIS
+2021/03;Desmatamento Consolidado;21;PIAUÍ
+2021/03;Desmatamento Consolidado;42;SÃO PAULO
+2021/03;Desmatamento Consolidado;33;TOCANTINS
+2021/03;Desmatamento Recente;44;BAHIA
+2021/03;Desmatamento Recente;10;GOIÁS
+2021/03;Desmatamento Recente;26;MARANHÃO
+2021/03;Desmatamento Recente;19;MATO GROSSO
+2021/03;Desmatamento Recente;18;MATO GROSSO DO SUL
+2021/03;Desmatamento Recente;21;MINAS GERAIS
+2021/03;Desmatamento Recente;5;PIAUÍ
+2021/03;Desmatamento Recente;14;TOCANTINS
+2021/03;Floresta;4;BAHIA
+2021/03;Floresta;1;GOIÁS
+2021/03;Floresta;4;MARANHÃO
+2021/03;Floresta;6;MATO GROSSO
+2021/03;Floresta;1;MATO GROSSO DO SUL
+2021/03;Floresta;7;MINAS GERAIS
+2021/03;Floresta;2;PIAUÍ
+2021/03;Floresta;16;TOCANTINS
+2021/04;Desmatamento Consolidado;21;BAHIA
+2021/04;Desmatamento Consolidado;3;DISTRITO FEDERAL
+2021/04;Desmatamento Consolidado;88;GOIÁS
+2021/04;Desmatamento Consolidado;28;MARANHÃO
+2021/04;Desmatamento Consolidado;175;MATO GROSSO
+2021/04;Desmatamento Consolidado;75;MATO GROSSO DO SUL
+2021/04;Desmatamento Consolidado;66;MINAS GERAIS
+2021/04;Desmatamento Consolidado;4;PARANÁ
+2021/04;Desmatamento Consolidado;29;PIAUÍ
+2021/04;Desmatamento Consolidado;32;SÃO PAULO
+2021/04;Desmatamento Consolidado;56;TOCANTINS
+2021/04;Desmatamento Recente;10;BAHIA
+2021/04;Desmatamento Recente;16;GOIÁS
+2021/04;Desmatamento Recente;51;MARANHÃO
+2021/04;Desmatamento Recente;32;MATO GROSSO
+2021/04;Desmatamento Recente;25;MATO GROSSO DO SUL
+2021/04;Desmatamento Recente;18;MINAS GERAIS
+2021/04;Desmatamento Recente;23;PIAUÍ
+2021/04;Desmatamento Recente;14;TOCANTINS
+2021/04;Floresta;11;BAHIA
+2021/04;Floresta;1;DISTRITO FEDERAL
+2021/04;Floresta;4;GOIÁS
+2021/04;Floresta;12;MARANHÃO
+2021/04;Floresta;8;MATO GROSSO
+2021/04;Floresta;1;MATO GROSSO DO SUL
+2021/04;Floresta;2;MINAS GERAIS
+2021/04;Floresta;15;TOCANTINS
+2021/05;Desmatamento Consolidado;56;BAHIA
+2021/05;Desmatamento Consolidado;6;DISTRITO FEDERAL
+2021/05;Desmatamento Consolidado;179;GOIÁS
+2021/05;Desmatamento Consolidado;80;MARANHÃO
+2021/05;Desmatamento Consolidado;147;MATO GROSSO
+2021/05;Desmatamento Consolidado;103;MATO GROSSO DO SUL
+2021/05;Desmatamento Consolidado;187;MINAS GERAIS
+2021/05;Desmatamento Consolidado;34;PIAUÍ
+2021/05;Desmatamento Consolidado;44;SÃO PAULO
+2021/05;Desmatamento Consolidado;310;TOCANTINS
+2021/05;Desmatamento Recente;98;BAHIA
+2021/05;Desmatamento Recente;1;DISTRITO FEDERAL
+2021/05;Desmatamento Recente;50;GOIÁS
+2021/05;Desmatamento Recente;247;MARANHÃO
+2021/05;Desmatamento Recente;63;MATO GROSSO
+2021/05;Desmatamento Recente;39;MATO GROSSO DO SUL
+2021/05;Desmatamento Recente;30;MINAS GERAIS
+2021/05;Desmatamento Recente;30;PIAUÍ
+2021/05;Desmatamento Recente;147;TOCANTINS
+2021/05;Floresta;37;BAHIA
+2021/05;Floresta;2;DISTRITO FEDERAL
+2021/05;Floresta;18;GOIÁS
+2021/05;Floresta;110;MARANHÃO
+2021/05;Floresta;170;MATO GROSSO
+2021/05;Floresta;4;MATO GROSSO DO SUL
+2021/05;Floresta;28;MINAS GERAIS
+2021/05;Floresta;48;PIAUÍ
+2021/05;Floresta;381;TOCANTINS
+2021/06;Desmatamento Consolidado;71;BAHIA
+2021/06;Desmatamento Consolidado;9;DISTRITO FEDERAL
+2021/06;Desmatamento Consolidado;276;GOIÁS
+2021/06;Desmatamento Consolidado;212;MARANHÃO
+2021/06;Desmatamento Consolidado;230;MATO GROSSO
+2021/06;Desmatamento Consolidado;121;MATO GROSSO DO SUL
+2021/06;Desmatamento Consolidado;290;MINAS GERAIS
+2021/06;Desmatamento Consolidado;1;PARANÁ
+2021/06;Desmatamento Consolidado;105;PIAUÍ
+2021/06;Desmatamento Consolidado;61;SÃO PAULO
+2021/06;Desmatamento Consolidado;295;TOCANTINS
+2021/06;Desmatamento Recente;134;BAHIA
+2021/06;Desmatamento Recente;1;DISTRITO FEDERAL
+2021/06;Desmatamento Recente;73;GOIÁS
+2021/06;Desmatamento Recente;415;MARANHÃO
+2021/06;Desmatamento Recente;131;MATO GROSSO
+2021/06;Desmatamento Recente;30;MATO GROSSO DO SUL
+2021/06;Desmatamento Recente;46;MINAS GERAIS
+2021/06;Desmatamento Recente;57;PIAUÍ
+2021/06;Desmatamento Recente;189;TOCANTINS
+2021/06;Floresta;35;BAHIA
+2021/06;Floresta;47;GOIÁS
+2021/06;Floresta;282;MARANHÃO
+2021/06;Floresta;271;MATO GROSSO
+2021/06;Floresta;6;MATO GROSSO DO SUL
+2021/06;Floresta;38;MINAS GERAIS
+2021/06;Floresta;105;PIAUÍ
+2021/06;Floresta;650;TOCANTINS
+2021/07;Desmatamento Consolidado;157;BAHIA
+2021/07;Desmatamento Consolidado;36;DISTRITO FEDERAL
+2021/07;Desmatamento Consolidado;409;GOIÁS
+2021/07;Desmatamento Consolidado;282;MARANHÃO
+2021/07;Desmatamento Consolidado;245;MATO GROSSO
+2021/07;Desmatamento Consolidado;254;MATO GROSSO DO SUL
+2021/07;Desmatamento Consolidado;548;MINAS GERAIS
+2021/07;Desmatamento Consolidado;10;PARANÁ
+2021/07;Desmatamento Consolidado;154;PIAUÍ
+2021/07;Desmatamento Consolidado;308;SÃO PAULO
+2021/07;Desmatamento Consolidado;293;TOCANTINS
+2021/07;Desmatamento Recente;196;BAHIA
+2021/07;Desmatamento Recente;1;DISTRITO FEDERAL
+2021/07;Desmatamento Recente;87;GOIÁS
+2021/07;Desmatamento Recente;645;MARANHÃO
+2021/07;Desmatamento Recente;97;MATO GROSSO
+2021/07;Desmatamento Recente;27;MATO GROSSO DO SUL
+2021/07;Desmatamento Recente;73;MINAS GERAIS
+2021/07;Desmatamento Recente;66;PIAUÍ
+2021/07;Desmatamento Recente;4;SÃO PAULO
+2021/07;Desmatamento Recente;173;TOCANTINS
+2021/07;Floresta;179;BAHIA
+2021/07;Floresta;1;DISTRITO FEDERAL
+2021/07;Floresta;116;GOIÁS
+2021/07;Floresta;455;MARANHÃO
+2021/07;Floresta;325;MATO GROSSO
+2021/07;Floresta;57;MATO GROSSO DO SUL
+2021/07;Floresta;126;MINAS GERAIS
+2021/07;Floresta;321;PIAUÍ
+2021/07;Floresta;1309;TOCANTINS
+2021/07;Outros;1;MINAS GERAIS
+2021/08;Desmatamento Consolidado;275;BAHIA
+2021/08;Desmatamento Consolidado;41;DISTRITO FEDERAL
+2021/08;Desmatamento Consolidado;657;GOIÁS
+2021/08;Desmatamento Consolidado;788;MARANHÃO
+2021/08;Desmatamento Consolidado;986;MATO GROSSO
+2021/08;Desmatamento Consolidado;603;MATO GROSSO DO SUL
+2021/08;Desmatamento Consolidado;836;MINAS GERAIS
+2021/08;Desmatamento Consolidado;23;PARANÁ
+2021/08;Desmatamento Consolidado;389;PIAUÍ
+2021/08;Desmatamento Consolidado;927;SÃO PAULO
+2021/08;Desmatamento Consolidado;683;TOCANTINS
+2021/08;Desmatamento Recente;177;BAHIA
+2021/08;Desmatamento Recente;5;DISTRITO FEDERAL
+2021/08;Desmatamento Recente;127;GOIÁS
+2021/08;Desmatamento Recente;946;MARANHÃO
+2021/08;Desmatamento Recente;134;MATO GROSSO
+2021/08;Desmatamento Recente;26;MATO GROSSO DO SUL
+2021/08;Desmatamento Recente;83;MINAS GERAIS
+2021/08;Desmatamento Recente;125;PIAUÍ
+2021/08;Desmatamento Recente;7;SÃO PAULO
+2021/08;Desmatamento Recente;206;TOCANTINS
+2021/08;Floresta;524;BAHIA
+2021/08;Floresta;4;DISTRITO FEDERAL
+2021/08;Floresta;257;GOIÁS
+2021/08;Floresta;1292;MARANHÃO
+2021/08;Floresta;1424;MATO GROSSO
+2021/08;Floresta;622;MATO GROSSO DO SUL
+2021/08;Floresta;182;MINAS GERAIS
+2021/08;Floresta;848;PIAUÍ
+2021/08;Floresta;19;SÃO PAULO
+2021/08;Floresta;1823;TOCANTINS
+2021/08;Outros;4;MATO GROSSO DO SUL
+2021/09;Desmatamento Consolidado;1069;BAHIA
+2021/09;Desmatamento Consolidado;109;DISTRITO FEDERAL
+2021/09;Desmatamento Consolidado;1339;GOIÁS
+2021/09;Desmatamento Consolidado;606;MARANHÃO
+2021/09;Desmatamento Consolidado;672;MATO GROSSO
+2021/09;Desmatamento Consolidado;310;MATO GROSSO DO SUL
+2021/09;Desmatamento Consolidado;2311;MINAS GERAIS
+2021/09;Desmatamento Consolidado;13;PARANÁ
+2021/09;Desmatamento Consolidado;610;PIAUÍ
+2021/09;Desmatamento Consolidado;1;RONDÔNIA
+2021/09;Desmatamento Consolidado;827;SÃO PAULO
+2021/09;Desmatamento Consolidado;474;TOCANTINS
+2021/09;Desmatamento Recente;298;BAHIA
+2021/09;Desmatamento Recente;7;DISTRITO FEDERAL
+2021/09;Desmatamento Recente;237;GOIÁS
+2021/09;Desmatamento Recente;629;MARANHÃO
+2021/09;Desmatamento Recente;169;MATO GROSSO
+2021/09;Desmatamento Recente;47;MATO GROSSO DO SUL
+2021/09;Desmatamento Recente;248;MINAS GERAIS
+2021/09;Desmatamento Recente;261;PIAUÍ
+2021/09;Desmatamento Recente;8;SÃO PAULO
+2021/09;Desmatamento Recente;248;TOCANTINS
+2021/09;Floresta;2617;BAHIA
+2021/09;Floresta;25;DISTRITO FEDERAL
+2021/09;Floresta;980;GOIÁS
+2021/09;Floresta;886;MARANHÃO
+2021/09;Floresta;988;MATO GROSSO
+2021/09;Floresta;223;MATO GROSSO DO SUL
+2021/09;Floresta;963;MINAS GERAIS
+2021/09;Floresta;1737;PIAUÍ
+2021/09;Floresta;5;SÃO PAULO
+2021/09;Floresta;1022;TOCANTINS
+2021/10;Desmatamento Consolidado;693;BAHIA
+2021/10;Desmatamento Consolidado;6;DISTRITO FEDERAL
+2021/10;Desmatamento Consolidado;327;GOIÁS
+2021/10;Desmatamento Consolidado;1101;MARANHÃO
+2021/10;Desmatamento Consolidado;147;MATO GROSSO
+2021/10;Desmatamento Consolidado;70;MATO GROSSO DO SUL
+2021/10;Desmatamento Consolidado;456;MINAS GERAIS
+2021/10;Desmatamento Consolidado;275;PIAUÍ
+2021/10;Desmatamento Consolidado;45;SÃO PAULO
+2021/10;Desmatamento Consolidado;427;TOCANTINS
+2021/10;Desmatamento Recente;197;BAHIA
+2021/10;Desmatamento Recente;1;DISTRITO FEDERAL
+2021/10;Desmatamento Recente;84;GOIÁS
+2021/10;Desmatamento Recente;716;MARANHÃO
+2021/10;Desmatamento Recente;85;MATO GROSSO
+2021/10;Desmatamento Recente;5;MATO GROSSO DO SUL
+2021/10;Desmatamento Recente;83;MINAS GERAIS
+2021/10;Desmatamento Recente;153;PIAUÍ
+2021/10;Desmatamento Recente;287;TOCANTINS
+2021/10;Floresta;1367;BAHIA
+2021/10;Floresta;158;GOIÁS
+2021/10;Floresta;294;MARANHÃO
+2021/10;Floresta;100;MATO GROSSO
+2021/10;Floresta;44;MATO GROSSO DO SUL
+2021/10;Floresta;170;MINAS GERAIS
+2021/10;Floresta;674;PIAUÍ
+2021/10;Floresta;424;TOCANTINS
+2021/11;Desmatamento Consolidado;33;BAHIA
+2021/11;Desmatamento Consolidado;48;GOIÁS
+2021/11;Desmatamento Consolidado;611;MARANHÃO
+2021/11;Desmatamento Consolidado;85;MATO GROSSO
+2021/11;Desmatamento Consolidado;39;MATO GROSSO DO SUL
+2021/11;Desmatamento Consolidado;55;MINAS GERAIS
+2021/11;Desmatamento Consolidado;2;PARANÁ
+2021/11;Desmatamento Consolidado;52;PIAUÍ
+2021/11;Desmatamento Consolidado;12;SÃO PAULO
+2021/11;Desmatamento Consolidado;48;TOCANTINS
+2021/11;Desmatamento Recente;32;BAHIA
+2021/11;Desmatamento Recente;18;GOIÁS
+2021/11;Desmatamento Recente;606;MARANHÃO
+2021/11;Desmatamento Recente;16;MATO GROSSO
+2021/11;Desmatamento Recente;18;MATO GROSSO DO SUL
+2021/11;Desmatamento Recente;6;MINAS GERAIS
+2021/11;Desmatamento Recente;54;PIAUÍ
+2021/11;Desmatamento Recente;39;TOCANTINS
+2021/11;Floresta;14;BAHIA
+2021/11;Floresta;4;GOIÁS
+2021/11;Floresta;61;MARANHÃO
+2021/11;Floresta;8;MATO GROSSO
+2021/11;Floresta;8;MINAS GERAIS
+2021/11;Floresta;1;PARANÁ
+2021/11;Floresta;15;PIAUÍ
+2021/11;Floresta;1;SÃO PAULO
+2021/11;Floresta;14;TOCANTINS
+2021/11;Outros;1;MARANHÃO
+2021/12;Desmatamento Consolidado;11;BAHIA
+2021/12;Desmatamento Consolidado;33;GOIÁS
+2021/12;Desmatamento Consolidado;256;MARANHÃO
+2021/12;Desmatamento Consolidado;54;MATO GROSSO
+2021/12;Desmatamento Consolidado;41;MATO GROSSO DO SUL
+2021/12;Desmatamento Consolidado;24;MINAS GERAIS
+2021/12;Desmatamento Consolidado;12;PIAUÍ
+2021/12;Desmatamento Consolidado;6;SÃO PAULO
+2021/12;Desmatamento Consolidado;25;TOCANTINS
+2021/12;Desmatamento Recente;25;BAHIA
+2021/12;Desmatamento Recente;3;GOIÁS
+2021/12;Desmatamento Recente;307;MARANHÃO
+2021/12;Desmatamento Recente;10;MATO GROSSO
+2021/12;Desmatamento Recente;20;MATO GROSSO DO SUL
+2021/12;Desmatamento Recente;2;MINAS GERAIS
+2021/12;Desmatamento Recente;24;PIAUÍ
+2021/12;Desmatamento Recente;8;TOCANTINS
+2021/12;Floresta;1;BAHIA
+2021/12;Floresta;5;GOIÁS
+2021/12;Floresta;48;MARANHÃO
+2021/12;Floresta;3;MATO GROSSO
+2021/12;Floresta;1;MINAS GERAIS
+2021/12;Floresta;10;PIAUÍ
+2021/12;Floresta;4;TOCANTINS
+2020/01;Desmatamento Consolidado;19;BAHIA
+2020/01;Desmatamento Consolidado;2;DISTRITO FEDERAL
+2020/01;Desmatamento Consolidado;46;GOIÁS
+2020/01;Desmatamento Consolidado;37;MARANHÃO
+2020/01;Desmatamento Consolidado;204;MATO GROSSO
+2020/01;Desmatamento Consolidado;52;MATO GROSSO DO SUL
+2020/01;Desmatamento Consolidado;38;MINAS GERAIS
+2020/01;Desmatamento Consolidado;3;PARANÁ
+2020/01;Desmatamento Consolidado;9;PIAUÍ
+2020/01;Desmatamento Consolidado;40;SÃO PAULO
+2020/01;Desmatamento Consolidado;33;TOCANTINS
+2020/01;Desmatamento Recente;21;BAHIA
+2020/01;Desmatamento Recente;7;GOIÁS
+2020/01;Desmatamento Recente;25;MARANHÃO
+2020/01;Desmatamento Recente;47;MATO GROSSO
+2020/01;Desmatamento Recente;6;MATO GROSSO DO SUL
+2020/01;Desmatamento Recente;3;MINAS GERAIS
+2020/01;Desmatamento Recente;9;PIAUÍ
+2020/01;Desmatamento Recente;1;SÃO PAULO
+2020/01;Desmatamento Recente;30;TOCANTINS
+2020/01;Floresta;5;BAHIA
+2020/01;Floresta;1;GOIÁS
+2020/01;Floresta;6;MARANHÃO
+2020/01;Floresta;3;MATO GROSSO
+2020/01;Floresta;1;MATO GROSSO DO SUL
+2020/01;Floresta;3;PIAUÍ
+2020/01;Floresta;11;TOCANTINS
+2020/02;Desmatamento Consolidado;18;BAHIA
+2020/02;Desmatamento Consolidado;2;DISTRITO FEDERAL
+2020/02;Desmatamento Consolidado;80;GOIÁS
+2020/02;Desmatamento Consolidado;47;MARANHÃO
+2020/02;Desmatamento Consolidado;176;MATO GROSSO
+2020/02;Desmatamento Consolidado;108;MATO GROSSO DO SUL
+2020/02;Desmatamento Consolidado;53;MINAS GERAIS
+2020/02;Desmatamento Consolidado;16;PIAUÍ
+2020/02;Desmatamento Consolidado;42;SÃO PAULO
+2020/02;Desmatamento Consolidado;52;TOCANTINS
+2020/02;Desmatamento Recente;27;BAHIA
+2020/02;Desmatamento Recente;1;GOIÁS
+2020/02;Desmatamento Recente;14;MARANHÃO
+2020/02;Desmatamento Recente;12;MATO GROSSO
+2020/02;Desmatamento Recente;3;MATO GROSSO DO SUL
+2020/02;Desmatamento Recente;8;MINAS GERAIS
+2020/02;Desmatamento Recente;9;PIAUÍ
+2020/02;Desmatamento Recente;12;TOCANTINS
+2020/02;Floresta;2;BAHIA
+2020/02;Floresta;11;MATO GROSSO
+2020/02;Floresta;1;MINAS GERAIS
+2020/02;Floresta;3;PIAUÍ
+2020/02;Floresta;12;TOCANTINS
+2020/03;Desmatamento Consolidado;15;BAHIA
+2020/03;Desmatamento Consolidado;96;GOIÁS
+2020/03;Desmatamento Consolidado;24;MARANHÃO
+2020/03;Desmatamento Consolidado;347;MATO GROSSO
+2020/03;Desmatamento Consolidado;66;MATO GROSSO DO SUL
+2020/03;Desmatamento Consolidado;45;MINAS GERAIS
+2020/03;Desmatamento Consolidado;1;PARANÁ
+2020/03;Desmatamento Consolidado;17;PIAUÍ
+2020/03;Desmatamento Consolidado;73;SÃO PAULO
+2020/03;Desmatamento Consolidado;78;TOCANTINS
+2020/03;Desmatamento Recente;5;BAHIA
+2020/03;Desmatamento Recente;7;GOIÁS
+2020/03;Desmatamento Recente;7;MARANHÃO
+2020/03;Desmatamento Recente;27;MATO GROSSO
+2020/03;Desmatamento Recente;9;MATO GROSSO DO SUL
+2020/03;Desmatamento Recente;6;MINAS GERAIS
+2020/03;Desmatamento Recente;8;PIAUÍ
+2020/03;Desmatamento Recente;1;SÃO PAULO
+2020/03;Desmatamento Recente;23;TOCANTINS
+2020/03;Floresta;2;GOIÁS
+2020/03;Floresta;7;MARANHÃO
+2020/03;Floresta;12;MATO GROSSO
+2020/03;Floresta;7;MINAS GERAIS
+2020/03;Floresta;7;TOCANTINS
+2020/04;Desmatamento Consolidado;24;BAHIA
+2020/04;Desmatamento Consolidado;2;DISTRITO FEDERAL
+2020/04;Desmatamento Consolidado;126;GOIÁS
+2020/04;Desmatamento Consolidado;49;MARANHÃO
+2020/04;Desmatamento Consolidado;316;MATO GROSSO
+2020/04;Desmatamento Consolidado;75;MATO GROSSO DO SUL
+2020/04;Desmatamento Consolidado;43;MINAS GERAIS
+2020/04;Desmatamento Consolidado;3;PARANÁ
+2020/04;Desmatamento Consolidado;22;PIAUÍ
+2020/04;Desmatamento Consolidado;100;SÃO PAULO
+2020/04;Desmatamento Consolidado;127;TOCANTINS
+2020/04;Desmatamento Recente;10;BAHIA
+2020/04;Desmatamento Recente;19;GOIÁS
+2020/04;Desmatamento Recente;29;MARANHÃO
+2020/04;Desmatamento Recente;22;MATO GROSSO
+2020/04;Desmatamento Recente;32;MATO GROSSO DO SUL
+2020/04;Desmatamento Recente;8;MINAS GERAIS
+2020/04;Desmatamento Recente;6;PIAUÍ
+2020/04;Desmatamento Recente;4;SÃO PAULO
+2020/04;Desmatamento Recente;43;TOCANTINS
+2020/04;Floresta;3;BAHIA
+2020/04;Floresta;3;DISTRITO FEDERAL
+2020/04;Floresta;3;GOIÁS
+2020/04;Floresta;12;MARANHÃO
+2020/04;Floresta;25;MATO GROSSO
+2020/04;Floresta;1;MINAS GERAIS
+2020/04;Floresta;1;PIAUÍ
+2020/04;Floresta;50;TOCANTINS
+2020/05;Desmatamento Consolidado;16;BAHIA
+2020/05;Desmatamento Consolidado;3;DISTRITO FEDERAL
+2020/05;Desmatamento Consolidado;82;GOIÁS
+2020/05;Desmatamento Consolidado;67;MARANHÃO
+2020/05;Desmatamento Consolidado;113;MATO GROSSO
+2020/05;Desmatamento Consolidado;55;MATO GROSSO DO SUL
+2020/05;Desmatamento Consolidado;80;MINAS GERAIS
+2020/05;Desmatamento Consolidado;24;PIAUÍ
+2020/05;Desmatamento Consolidado;97;SÃO PAULO
+2020/05;Desmatamento Consolidado;194;TOCANTINS
+2020/05;Desmatamento Recente;31;BAHIA
+2020/05;Desmatamento Recente;1;DISTRITO FEDERAL
+2020/05;Desmatamento Recente;50;GOIÁS
+2020/05;Desmatamento Recente;82;MARANHÃO
+2020/05;Desmatamento Recente;54;MATO GROSSO
+2020/05;Desmatamento Recente;47;MATO GROSSO DO SUL
+2020/05;Desmatamento Recente;17;MINAS GERAIS
+2020/05;Desmatamento Recente;13;PIAUÍ
+2020/05;Desmatamento Recente;122;TOCANTINS
+2020/05;Floresta;7;BAHIA
+2020/05;Floresta;1;DISTRITO FEDERAL
+2020/05;Floresta;17;GOIÁS
+2020/05;Floresta;61;MARANHÃO
+2020/05;Floresta;110;MATO GROSSO
+2020/05;Floresta;2;MATO GROSSO DO SUL
+2020/05;Floresta;8;MINAS GERAIS
+2020/05;Floresta;5;PIAUÍ
+2020/05;Floresta;122;TOCANTINS
+2020/06;Desmatamento Consolidado;61;BAHIA
+2020/06;Desmatamento Consolidado;8;DISTRITO FEDERAL
+2020/06;Desmatamento Consolidado;164;GOIÁS
+2020/06;Desmatamento Consolidado;137;MARANHÃO
+2020/06;Desmatamento Consolidado;256;MATO GROSSO
+2020/06;Desmatamento Consolidado;76;MATO GROSSO DO SUL
+2020/06;Desmatamento Consolidado;131;MINAS GERAIS
+2020/06;Desmatamento Consolidado;2;PARANÁ
+2020/06;Desmatamento Consolidado;43;PIAUÍ
+2020/06;Desmatamento Consolidado;109;SÃO PAULO
+2020/06;Desmatamento Consolidado;253;TOCANTINS
+2020/06;Desmatamento Recente;106;BAHIA
+2020/06;Desmatamento Recente;1;DISTRITO FEDERAL
+2020/06;Desmatamento Recente;104;GOIÁS
+2020/06;Desmatamento Recente;229;MARANHÃO
+2020/06;Desmatamento Recente;137;MATO GROSSO
+2020/06;Desmatamento Recente;45;MATO GROSSO DO SUL
+2020/06;Desmatamento Recente;35;MINAS GERAIS
+2020/06;Desmatamento Recente;36;PIAUÍ
+2020/06;Desmatamento Recente;243;TOCANTINS
+2020/06;Floresta;17;BAHIA
+2020/06;Floresta;2;DISTRITO FEDERAL
+2020/06;Floresta;36;GOIÁS
+2020/06;Floresta;302;MARANHÃO
+2020/06;Floresta;216;MATO GROSSO
+2020/06;Floresta;12;MATO GROSSO DO SUL
+2020/06;Floresta;22;MINAS GERAIS
+2020/06;Floresta;42;PIAUÍ
+2020/06;Floresta;662;TOCANTINS
+2020/07;Desmatamento Consolidado;113;BAHIA
+2020/07;Desmatamento Consolidado;24;DISTRITO FEDERAL
+2020/07;Desmatamento Consolidado;274;GOIÁS
+2020/07;Desmatamento Consolidado;338;MARANHÃO
+2020/07;Desmatamento Consolidado;343;MATO GROSSO
+2020/07;Desmatamento Consolidado;140;MATO GROSSO DO SUL
+2020/07;Desmatamento Consolidado;234;MINAS GERAIS
+2020/07;Desmatamento Consolidado;4;PARANÁ
+2020/07;Desmatamento Consolidado;127;PIAUÍ
+2020/07;Desmatamento Consolidado;223;SÃO PAULO
+2020/07;Desmatamento Consolidado;248;TOCANTINS
+2020/07;Desmatamento Recente;106;BAHIA
+2020/07;Desmatamento Recente;66;GOIÁS
+2020/07;Desmatamento Recente;642;MARANHÃO
+2020/07;Desmatamento Recente;79;MATO GROSSO
+2020/07;Desmatamento Recente;53;MATO GROSSO DO SUL
+2020/07;Desmatamento Recente;45;MINAS GERAIS
+2020/07;Desmatamento Recente;80;PIAUÍ
+2020/07;Desmatamento Recente;2;SÃO PAULO
+2020/07;Desmatamento Recente;233;TOCANTINS
+2020/07;Floresta;54;BAHIA
+2020/07;Floresta;1;DISTRITO FEDERAL
+2020/07;Floresta;45;GOIÁS
+2020/07;Floresta;647;MARANHÃO
+2020/07;Floresta;395;MATO GROSSO
+2020/07;Floresta;81;MATO GROSSO DO SUL
+2020/07;Floresta;36;MINAS GERAIS
+2020/07;Floresta;1;PARANÁ
+2020/07;Floresta;179;PIAUÍ
+2020/07;Floresta;849;TOCANTINS
+2020/07;Outros;1;MARANHÃO
+2020/08;Desmatamento Consolidado;90;BAHIA
+2020/08;Desmatamento Consolidado;19;DISTRITO FEDERAL
+2020/08;Desmatamento Consolidado;759;GOIÁS
+2020/08;Desmatamento Consolidado;562;MARANHÃO
+2020/08;Desmatamento Consolidado;1242;MATO GROSSO
+2020/08;Desmatamento Consolidado;254;MATO GROSSO DO SUL
+2020/08;Desmatamento Consolidado;609;MINAS GERAIS
+2020/08;Desmatamento Consolidado;9;PARANÁ
+2020/08;Desmatamento Consolidado;189;PIAUÍ
+2020/08;Desmatamento Consolidado;513;SÃO PAULO
+2020/08;Desmatamento Consolidado;456;TOCANTINS
+2020/08;Desmatamento Recente;60;BAHIA
+2020/08;Desmatamento Recente;3;DISTRITO FEDERAL
+2020/08;Desmatamento Recente;87;GOIÁS
+2020/08;Desmatamento Recente;532;MARANHÃO
+2020/08;Desmatamento Recente;254;MATO GROSSO
+2020/08;Desmatamento Recente;15;MATO GROSSO DO SUL
+2020/08;Desmatamento Recente;56;MINAS GERAIS
+2020/08;Desmatamento Recente;51;PIAUÍ
+2020/08;Desmatamento Recente;5;SÃO PAULO
+2020/08;Desmatamento Recente;183;TOCANTINS
+2020/08;Floresta;161;BAHIA
+2020/08;Floresta;67;GOIÁS
+2020/08;Floresta;746;MARANHÃO
+2020/08;Floresta;1383;MATO GROSSO
+2020/08;Floresta;479;MATO GROSSO DO SUL
+2020/08;Floresta;111;MINAS GERAIS
+2020/08;Floresta;249;PIAUÍ
+2020/08;Floresta;1;RONDÔNIA
+2020/08;Floresta;2;SÃO PAULO
+2020/08;Floresta;1008;TOCANTINS
+2020/09;Desmatamento Consolidado;348;BAHIA
+2020/09;Desmatamento Consolidado;73;DISTRITO FEDERAL
+2020/09;Desmatamento Consolidado;1347;GOIÁS
+2020/09;Desmatamento Consolidado;1395;MARANHÃO
+2020/09;Desmatamento Consolidado;2848;MATO GROSSO
+2020/09;Desmatamento Consolidado;562;MATO GROSSO DO SUL
+2020/09;Desmatamento Consolidado;1584;MINAS GERAIS
+2020/09;Desmatamento Consolidado;17;PARANÁ
+2020/09;Desmatamento Consolidado;405;PIAUÍ
+2020/09;Desmatamento Consolidado;2;RONDÔNIA
+2020/09;Desmatamento Consolidado;1038;SÃO PAULO
+2020/09;Desmatamento Consolidado;1144;TOCANTINS
+2020/09;Desmatamento Recente;170;BAHIA
+2020/09;Desmatamento Recente;1;DISTRITO FEDERAL
+2020/09;Desmatamento Recente;178;GOIÁS
+2020/09;Desmatamento Recente;900;MARANHÃO
+2020/09;Desmatamento Recente;561;MATO GROSSO
+2020/09;Desmatamento Recente;50;MATO GROSSO DO SUL
+2020/09;Desmatamento Recente;167;MINAS GERAIS
+2020/09;Desmatamento Recente;1;PARANÁ
+2020/09;Desmatamento Recente;146;PIAUÍ
+2020/09;Desmatamento Recente;14;SÃO PAULO
+2020/09;Desmatamento Recente;460;TOCANTINS
+2020/09;Floresta;467;BAHIA
+2020/09;Floresta;9;DISTRITO FEDERAL
+2020/09;Floresta;225;GOIÁS
+2020/09;Floresta;1641;MARANHÃO
+2020/09;Floresta;2578;MATO GROSSO
+2020/09;Floresta;177;MATO GROSSO DO SUL
+2020/09;Floresta;403;MINAS GERAIS
+2020/09;Floresta;789;PIAUÍ
+2020/09;Floresta;2;RONDÔNIA
+2020/09;Floresta;10;SÃO PAULO
+2020/09;Floresta;2090;TOCANTINS
+2020/10;Desmatamento Consolidado;512;BAHIA
+2020/10;Desmatamento Consolidado;29;DISTRITO FEDERAL
+2020/10;Desmatamento Consolidado;982;GOIÁS
+2020/10;Desmatamento Consolidado;992;MARANHÃO
+2020/10;Desmatamento Consolidado;633;MATO GROSSO
+2020/10;Desmatamento Consolidado;187;MATO GROSSO DO SUL
+2020/10;Desmatamento Consolidado;1069;MINAS GERAIS
+2020/10;Desmatamento Consolidado;15;PARANÁ
+2020/10;Desmatamento Consolidado;395;PIAUÍ
+2020/10;Desmatamento Consolidado;404;SÃO PAULO
+2020/10;Desmatamento Consolidado;703;TOCANTINS
+2020/10;Desmatamento Recente;228;BAHIA
+2020/10;Desmatamento Recente;3;DISTRITO FEDERAL
+2020/10;Desmatamento Recente;184;GOIÁS
+2020/10;Desmatamento Recente;679;MARANHÃO
+2020/10;Desmatamento Recente;207;MATO GROSSO
+2020/10;Desmatamento Recente;18;MATO GROSSO DO SUL
+2020/10;Desmatamento Recente;125;MINAS GERAIS
+2020/10;Desmatamento Recente;2;PARANÁ
+2020/10;Desmatamento Recente;158;PIAUÍ
+2020/10;Desmatamento Recente;5;SÃO PAULO
+2020/10;Desmatamento Recente;398;TOCANTINS
+2020/10;Floresta;1128;BAHIA
+2020/10;Floresta;7;DISTRITO FEDERAL
+2020/10;Floresta;387;GOIÁS
+2020/10;Floresta;927;MARANHÃO
+2020/10;Floresta;686;MATO GROSSO
+2020/10;Floresta;64;MATO GROSSO DO SUL
+2020/10;Floresta;451;MINAS GERAIS
+2020/10;Floresta;847;PIAUÍ
+2020/10;Floresta;2;SÃO PAULO
+2020/10;Floresta;1013;TOCANTINS
+2020/11;Desmatamento Consolidado;81;BAHIA
+2020/11;Desmatamento Consolidado;1;DISTRITO FEDERAL
+2020/11;Desmatamento Consolidado;125;GOIÁS
+2020/11;Desmatamento Consolidado;592;MARANHÃO
+2020/11;Desmatamento Consolidado;209;MATO GROSSO
+2020/11;Desmatamento Consolidado;36;MATO GROSSO DO SUL
+2020/11;Desmatamento Consolidado;103;MINAS GERAIS
+2020/11;Desmatamento Consolidado;1;PARANÁ
+2020/11;Desmatamento Consolidado;77;PIAUÍ
+2020/11;Desmatamento Consolidado;36;SÃO PAULO
+2020/11;Desmatamento Consolidado;194;TOCANTINS
+2020/11;Desmatamento Recente;101;BAHIA
+2020/11;Desmatamento Recente;81;GOIÁS
+2020/11;Desmatamento Recente;549;MARANHÃO
+2020/11;Desmatamento Recente;125;MATO GROSSO
+2020/11;Desmatamento Recente;13;MATO GROSSO DO SUL
+2020/11;Desmatamento Recente;28;MINAS GERAIS
+2020/11;Desmatamento Recente;85;PIAUÍ
+2020/11;Desmatamento Recente;181;TOCANTINS
+2020/11;Floresta;26;BAHIA
+2020/11;Floresta;14;GOIÁS
+2020/11;Floresta;72;MARANHÃO
+2020/11;Floresta;81;MATO GROSSO
+2020/11;Floresta;1;MATO GROSSO DO SUL
+2020/11;Floresta;18;MINAS GERAIS
+2020/11;Floresta;30;PIAUÍ
+2020/11;Floresta;4;SÃO PAULO
+2020/11;Floresta;93;TOCANTINS
+2020/12;Desmatamento Consolidado;51;BAHIA
+2020/12;Desmatamento Consolidado;1;DISTRITO FEDERAL
+2020/12;Desmatamento Consolidado;42;GOIÁS
+2020/12;Desmatamento Consolidado;346;MARANHÃO
+2020/12;Desmatamento Consolidado;96;MATO GROSSO
+2020/12;Desmatamento Consolidado;45;MATO GROSSO DO SUL
+2020/12;Desmatamento Consolidado;36;MINAS GERAIS
+2020/12;Desmatamento Consolidado;1;PARANÁ
+2020/12;Desmatamento Consolidado;30;PIAUÍ
+2020/12;Desmatamento Consolidado;4;SÃO PAULO
+2020/12;Desmatamento Consolidado;73;TOCANTINS
+2020/12;Desmatamento Recente;40;BAHIA
+2020/12;Desmatamento Recente;21;GOIÁS
+2020/12;Desmatamento Recente;332;MARANHÃO
+2020/12;Desmatamento Recente;31;MATO GROSSO
+2020/12;Desmatamento Recente;11;MATO GROSSO DO SUL
+2020/12;Desmatamento Recente;11;MINAS GERAIS
+2020/12;Desmatamento Recente;35;PIAUÍ
+2020/12;Desmatamento Recente;85;TOCANTINS
+2020/12;Floresta;12;BAHIA
+2020/12;Floresta;5;GOIÁS
+2020/12;Floresta;45;MARANHÃO
+2020/12;Floresta;14;MATO GROSSO
+2020/12;Floresta;3;MINAS GERAIS
+2020/12;Floresta;1;PARANÁ
+2020/12;Floresta;15;PIAUÍ
+2020/12;Floresta;29;TOCANTINS
+2019/08;Desmatamento Consolidado;133;BAHIA
+2019/08;Desmatamento Consolidado;23;DISTRITO FEDERAL
+2019/08;Desmatamento Consolidado;455;GOIÁS
+2019/08;Desmatamento Consolidado;960;MARANHÃO
+2019/08;Desmatamento Consolidado;954;MATO GROSSO
+2019/08;Desmatamento Consolidado;284;MATO GROSSO DO SUL
+2019/08;Desmatamento Consolidado;620;MINAS GERAIS
+2019/08;Desmatamento Consolidado;15;PARANÁ
+2019/08;Desmatamento Consolidado;311;PIAUÍ
+2019/08;Desmatamento Consolidado;275;SÃO PAULO
+2019/08;Desmatamento Consolidado;698;TOCANTINS
+2019/08;Desmatamento Recente;99;BAHIA
+2019/08;Desmatamento Recente;76;GOIÁS
+2019/08;Desmatamento Recente;667;MARANHÃO
+2019/08;Desmatamento Recente;334;MATO GROSSO
+2019/08;Desmatamento Recente;36;MATO GROSSO DO SUL
+2019/08;Desmatamento Recente;65;MINAS GERAIS
+2019/08;Desmatamento Recente;3;PARANÁ
+2019/08;Desmatamento Recente;169;PIAUÍ
+2019/08;Desmatamento Recente;1;RONDÔNIA
+2019/08;Desmatamento Recente;4;SÃO PAULO
+2019/08;Desmatamento Recente;321;TOCANTINS
+2019/08;Floresta;196;BAHIA
+2019/08;Floresta;6;DISTRITO FEDERAL
+2019/08;Floresta;142;GOIÁS
+2019/08;Floresta;1497;MARANHÃO
+2019/08;Floresta;1435;MATO GROSSO
+2019/08;Floresta;478;MATO GROSSO DO SUL
+2019/08;Floresta;85;MINAS GERAIS
+2019/08;Floresta;728;PIAUÍ
+2019/08;Floresta;1835;TOCANTINS
+2019/08;Outros;1;MATO GROSSO DO SUL
+2019/09;Desmatamento Consolidado;352;BAHIA
+2019/09;Desmatamento Consolidado;103;DISTRITO FEDERAL
+2019/09;Desmatamento Consolidado;2734;GOIÁS
+2019/09;Desmatamento Consolidado;1147;MARANHÃO
+2019/09;Desmatamento Consolidado;1900;MATO GROSSO
+2019/09;Desmatamento Consolidado;469;MATO GROSSO DO SUL
+2019/09;Desmatamento Consolidado;1607;MINAS GERAIS
+2019/09;Desmatamento Consolidado;4;PARANÁ
+2019/09;Desmatamento Consolidado;417;PIAUÍ
+2019/09;Desmatamento Consolidado;323;SÃO PAULO
+2019/09;Desmatamento Consolidado;1132;TOCANTINS
+2019/09;Desmatamento Recente;161;BAHIA
+2019/09;Desmatamento Recente;5;DISTRITO FEDERAL
+2019/09;Desmatamento Recente;329;GOIÁS
+2019/09;Desmatamento Recente;659;MARANHÃO
+2019/09;Desmatamento Recente;453;MATO GROSSO
+2019/09;Desmatamento Recente;50;MATO GROSSO DO SUL
+2019/09;Desmatamento Recente;165;MINAS GERAIS
+2019/09;Desmatamento Recente;189;PIAUÍ
+2019/09;Desmatamento Recente;5;SÃO PAULO
+2019/09;Desmatamento Recente;502;TOCANTINS
+2019/09;Floresta;644;BAHIA
+2019/09;Floresta;8;DISTRITO FEDERAL
+2019/09;Floresta;906;GOIÁS
+2019/09;Floresta;1511;MARANHÃO
+2019/09;Floresta;2429;MATO GROSSO
+2019/09;Floresta;458;MATO GROSSO DO SUL
+2019/09;Floresta;365;MINAS GERAIS
+2019/09;Floresta;1;PARANÁ
+2019/09;Floresta;1130;PIAUÍ
+2019/09;Floresta;2831;TOCANTINS
+2019/10;Desmatamento Consolidado;213;BAHIA
+2019/10;Desmatamento Consolidado;25;DISTRITO FEDERAL
+2019/10;Desmatamento Consolidado;376;GOIÁS
+2019/10;Desmatamento Consolidado;1190;MARANHÃO
+2019/10;Desmatamento Consolidado;206;MATO GROSSO
+2019/10;Desmatamento Consolidado;79;MATO GROSSO DO SUL
+2019/10;Desmatamento Consolidado;586;MINAS GERAIS
+2019/10;Desmatamento Consolidado;13;PARANÁ
+2019/10;Desmatamento Consolidado;253;PIAUÍ
+2019/10;Desmatamento Consolidado;104;SÃO PAULO
+2019/10;Desmatamento Consolidado;462;TOCANTINS
+2019/10;Desmatamento Recente;143;BAHIA
+2019/10;Desmatamento Recente;1;DISTRITO FEDERAL
+2019/10;Desmatamento Recente;132;GOIÁS
+2019/10;Desmatamento Recente;870;MARANHÃO
+2019/10;Desmatamento Recente;120;MATO GROSSO
+2019/10;Desmatamento Recente;23;MATO GROSSO DO SUL
+2019/10;Desmatamento Recente;109;MINAS GERAIS
+2019/10;Desmatamento Recente;2;PARANÁ
+2019/10;Desmatamento Recente;155;PIAUÍ
+2019/10;Desmatamento Recente;1;SÃO PAULO
+2019/10;Desmatamento Recente;409;TOCANTINS
+2019/10;Floresta;375;BAHIA
+2019/10;Floresta;1;DISTRITO FEDERAL
+2019/10;Floresta;337;GOIÁS
+2019/10;Floresta;675;MARANHÃO
+2019/10;Floresta;109;MATO GROSSO
+2019/10;Floresta;64;MATO GROSSO DO SUL
+2019/10;Floresta;235;MINAS GERAIS
+2019/10;Floresta;540;PIAUÍ
+2019/10;Floresta;548;TOCANTINS
+2019/11;Desmatamento Consolidado;118;BAHIA
+2019/11;Desmatamento Consolidado;91;GOIÁS
+2019/11;Desmatamento Consolidado;714;MARANHÃO
+2019/11;Desmatamento Consolidado;148;MATO GROSSO
+2019/11;Desmatamento Consolidado;45;MATO GROSSO DO SUL
+2019/11;Desmatamento Consolidado;151;MINAS GERAIS
+2019/11;Desmatamento Consolidado;114;PIAUÍ
+2019/11;Desmatamento Consolidado;25;SÃO PAULO
+2019/11;Desmatamento Consolidado;137;TOCANTINS
+2019/11;Desmatamento Recente;71;BAHIA
+2019/11;Desmatamento Recente;42;GOIÁS
+2019/11;Desmatamento Recente;563;MARANHÃO
+2019/11;Desmatamento Recente;91;MATO GROSSO
+2019/11;Desmatamento Recente;27;MATO GROSSO DO SUL
+2019/11;Desmatamento Recente;30;MINAS GERAIS
+2019/11;Desmatamento Recente;72;PIAUÍ
+2019/11;Desmatamento Recente;142;TOCANTINS
+2019/11;Floresta;211;BAHIA
+2019/11;Floresta;25;GOIÁS
+2019/11;Floresta;104;MARANHÃO
+2019/11;Floresta;12;MATO GROSSO
+2019/11;Floresta;13;MATO GROSSO DO SUL
+2019/11;Floresta;58;MINAS GERAIS
+2019/11;Floresta;194;PIAUÍ
+2019/11;Floresta;53;TOCANTINS
+2019/12;Desmatamento Consolidado;35;BAHIA
+2019/12;Desmatamento Consolidado;57;GOIÁS
+2019/12;Desmatamento Consolidado;484;MARANHÃO
+2019/12;Desmatamento Consolidado;100;MATO GROSSO
+2019/12;Desmatamento Consolidado;58;MATO GROSSO DO SUL
+2019/12;Desmatamento Consolidado;48;MINAS GERAIS
+2019/12;Desmatamento Consolidado;39;PIAUÍ
+2019/12;Desmatamento Consolidado;23;SÃO PAULO
+2019/12;Desmatamento Consolidado;70;TOCANTINS
+2019/12;Desmatamento Recente;47;BAHIA
+2019/12;Desmatamento Recente;23;GOIÁS
+2019/12;Desmatamento Recente;372;MARANHÃO
+2019/12;Desmatamento Recente;41;MATO GROSSO
+2019/12;Desmatamento Recente;9;MATO GROSSO DO SUL
+2019/12;Desmatamento Recente;9;MINAS GERAIS
+2019/12;Desmatamento Recente;23;PIAUÍ
+2019/12;Desmatamento Recente;99;TOCANTINS
+2019/12;Floresta;27;BAHIA
+2019/12;Floresta;6;GOIÁS
+2019/12;Floresta;87;MARANHÃO
+2019/12;Floresta;13;MATO GROSSO
+2019/12;Floresta;1;MATO GROSSO DO SUL
+2019/12;Floresta;9;MINAS GERAIS
+2019/12;Floresta;1;PARANÁ
+2019/12;Floresta;47;PIAUÍ
+2019/12;Floresta;15;TOCANTINS
